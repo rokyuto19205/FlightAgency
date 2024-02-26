@@ -1,0 +1,15 @@
+CityID,CityCode,CityName,Airport,Country
+1,SOF,Sofia,"Sofia Airport",Bulgaria
+2,MUN,Munich,"Munich International Airport",Germany
+3,BCN,Barcelona,"Barcelona International Airport",Spain
+4,ORY,Paris,"Paris Orly Airport",France
+5,MAD,Madrid,"Adolfo Suarez Madrid-Barajas Airport",Spain
+6,BER,Berlin,"Berlin Brandenburg Airport",Germany
+7,LGW,London,"Gatwick Airport","United Kingdom"
+8,BUD,Budapest,"Liszt Ferenc International Airport",Hungary
+9,OTP,Bucharest,"Henri Coanda International Airport",Romania
+10,LIS,Lisbon,"Lisbon Airport",Portugal
+11,VIE,Vienna,"Vienna International Airport",Austria
+12,GVA,Geneva,"Geneva International Airport",Switzerland
+13,MXP,Milan,"Malpensa Airport",Italy
+14,BOJ,Bourgas,"Bourgas Airport",Bulgaria
